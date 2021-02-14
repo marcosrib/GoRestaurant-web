@@ -20,7 +20,8 @@ Projeto desenvolvido no Gostack da Rocketseat com reactjs.
 ## :camera: Preview:
 
 ### Tela de pratos:![Captura de tela de 2021-02-14 14-51-59](https://user-images.githubusercontent.com/43934564/107884803-a5949680-6ed5-11eb-965e-483323176b38.png)
-### Tela de cadastro de pratos:![Captura de tela de 2020-09-29 13-50-42](https://user-images.githubusercontent.com/43934564/94588831-dc397f80-025a-11eb-9705-87846f9d041a.png)
+### Tela de cadastro de pratos:![Captura de tela de 2021-02-14 14-52-28](https://user-images.githubusercontent.com/43934564/107884829-cd83fa00-6ed5-11eb-9374-365d9143ed9a.png)
+
 
 
 ## :gear: Funcionalidades:
