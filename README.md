@@ -44,11 +44,15 @@ Projeto desenvolvido no Gostack da Rocketseat com reactjs.
 ## :arrow_forward: Como executar:
 No terminal clone o projeto.
 ```
-git clone https://github.com/marcosrib/GoBarber-web.git
+git clone https://github.com/marcosrib/GoRestaurant-web.git
 ```
 Entre na pasta do projeto e instale as dependências executando.
 ```
 yarn ou npm install
+```
+Para rodar api fake json-server execute.
+```
+yarn json-server --watch server.json  -p 3333
 ```
 Para rodar o projeto execute.
 
